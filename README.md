@@ -1,4 +1,4 @@
-*📚 Library Inventory Manager*
+****📚 Library Inventory Manager****
 A lightweight and modular Command-Line Application for managing a book catalog in a campus library environment using Object-Oriented Programming, JSON persistence, exception handling, and a menu-driven CLI.
 This project helps library staff maintain records of available and issued books along with searching and tracking functionality.
 
